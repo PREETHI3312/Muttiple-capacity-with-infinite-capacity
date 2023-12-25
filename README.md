@@ -18,6 +18,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![image](https://github.com/PREETHI3312/Muttiple-capacity-with-infinite-capacity/assets/151625222/fddac28e-fef1-4ed2-9bfd-f7fe247740cc)
+![image](https://github.com/PREETHI3312/Muttiple-capacity-with-infinite-capacity/assets/151625222/179d7c30-c0e1-4699-977c-888ba28c06bc)
+
+
 
 
 ## Program
@@ -31,4 +35,5 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Result : 
+Thus the average number of materials in th system and conveyor waiting time of system and conveyor is found successfully
 
